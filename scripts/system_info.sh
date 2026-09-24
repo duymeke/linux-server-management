@@ -19,3 +19,6 @@ vm_stat
 
 echo "CPU Information:"
 sysctl -n machdep.cpu.brand_string 2>/dev/null || lscpu
+
+# Display CPU information
+echo "CPU Information:"
