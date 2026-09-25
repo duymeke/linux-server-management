@@ -47,3 +47,11 @@ Scripts are executed locally to verify that they work correctly.
 ## Troubleshooting Process
 
 Problems are investigated using Git history, script output, and system information.
+
+## Testing Examples
+
+Run:
+
+./scripts/system_info.sh
+
+./scripts/backup.sh
