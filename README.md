@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-This project demonstrates basic Linux server management using Bash scripts and a professional Git workflow.
+This project demonstrates professional Linux server management using Bash scripts and a professional Git workflow.
 
 ## Project Structure
 
