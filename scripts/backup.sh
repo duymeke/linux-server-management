@@ -7,7 +7,7 @@ mkdir -p "$BACKUP_DIR"
 
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
 
-tar -cz "$BACKUP_DIR/project_$DATE.tar.gz" "$SOURCE_DIR"
+tar -czf "$BACKUP_DIR/project_$DATE.tar.gz" "$SOURCE_DIR"
 
 if [ $? -eq 0 ]; then
     echo "Backup created successfully:"
