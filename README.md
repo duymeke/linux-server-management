@@ -55,3 +55,7 @@ Run:
 ./scripts/system_info.sh
 
 ./scripts/backup.sh
+
+## Maintenance
+
+The project is regularly tested to ensure that the administration scripts work correctly.
